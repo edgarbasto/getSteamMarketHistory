@@ -17,3 +17,5 @@ Maybe one day I'll improve it... (maybe not!)
     e.g. page1.html, page2.html... (make sure to use .html extension)
 6. Run steammarkethistory.py
 7. Open output.xlsx
+
+The wallet history you can copy/past directly to excel.
